@@ -3,6 +3,13 @@
     background-color: orange;
 }
 
+h1 {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
 h2 {
     font-size: medium;
     font-family: Georgia, 'Times New Roman', Times, serif;
